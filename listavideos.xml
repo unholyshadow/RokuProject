@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<videos>
+	<item>
+		<hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
+		<title>Titulo video 1</title>
+		<contentId>10041</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<format>mp4</format>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://video.ted.com/talks/podcast/BenjaminZander_2008_480.mp4</streamUrl>
+		</media>
+		<runtime>1246</runtime>
+	</item>	
+	<item>
+		<hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
+		<title>Titulo video 2</title>
+		<contentId>10042</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<format>mp4</format>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://video.ted.com/talks/podcast/CynthiaSchneider_2009G_480.mp4</streamUrl>
+		</media>
+		<runtime>338</runtime>
+	</item>
+    <item>
+            <hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
+            <title>Titulo video 3</title>
+            <contentId>10043</contentId>
+            <contentType>Talk</contentType>
+            <contentQuality>SD</contentQuality>
+            <media>
+                    <format>mp4</format>
+                    <streamQuality>SD</streamQuality>
+                    <streamBitrate>1500</streamBitrate>
+                    <streamUrl>http://video.ted.com/talks/podcast/JulianTreasure_2009G_480.mp4</streamUrl>
+            </media>
+            <runtime>347</runtime>
+    </item>
+</videos>
