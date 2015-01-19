@@ -14,11 +14,11 @@
 		<format>mp4</format>
 		<streamUrl>http://video.ted.com/talks/podcast/CynthiaSchneider_2009G_480.mp4</streamUrl>
 	</item>
-    <item>
+     	<item>
 		<hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
 		<title>Titulo video 3</title>
 		<contentId>10043</contentId>
 		<format>mp4</format>
 		<streamUrl>http://video.ted.com/talks/podcast/JulianTreasure_2009G_480.mp4</streamUrl>
-    </item>
+    	</item>
 </videos>
