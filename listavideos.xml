@@ -12,7 +12,7 @@
 		<title>Nanatsu no taizai</title>
 		<contentId>10042</contentId>
 		<format>mp4</format>
-		<streamUrl>http://192.168.2.106:8080/RokuProject/kfhustle.mp4</streamUrl>
+		<streamUrl><![CDATA[http://192.168.2.106:8080/RokuProject/kfhustle.mp4]]></streamUrl>
 	</item>
      	<item>
 		<hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
