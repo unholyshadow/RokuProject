@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <videos>
 	<item>
-		<hdImg>http://192.168.2.106:8080/RokuProject/Cover.jpg</hdImg>
-		<title>Kung Fu Hustle</title>
+		<hdImg>http://dramas.se/images/thumbs/madam-cutie-on-duty.jpg</hdImg>
+		<title>Madam Cutie</title>
 		<contentId>10041</contentId>
 		<format>mp4</format>
-		<streamUrl>http://192.168.2.106:8080/RokuProject/kfhustle.mp4</streamUrl>
+		<streamUrl><![CDATA[https://r6---sn-hp57kns7.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=ab9b97b1aa04528d&itag=22&source=picasa&ip=201.191.13.240&ipbits=0&expire=1422295529&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,pl,requiressl,shardbypass,source&signature=3929AE6C7DC65AE84C88A0FB01D2E019E5626BDD.124AF7338EEC0AFEC2BFAF5FD0373BC63CB52591&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1421733577&mv=m&nh=IgpwcjAxLm1pYTA0KgkxMjcuMC4wLjE&pl=18]]></streamUrl>
 	</item>	
 	<item>
 		<hdImg>http://www.gogoanime.com/images/nanatsu_no_taizai.jpg</hdImg>
