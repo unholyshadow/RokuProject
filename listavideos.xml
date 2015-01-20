@@ -15,10 +15,31 @@
 		<streamUrl><![CDATA[http://s9.videofun.me/videos/ongoing/nanatsu_no_taizai_-_14.mp4?gtw=1&st=tttRuAKOnvj9nLUcs2mWmQ&e=1421720361&server=videofun]]></streamUrl>
 	</item>
      	<item>
-		<hdImg>http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg</hdImg>
-		<title>Titulo video 3</title>
+		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
+		<title>Torutured souls Part 1</title>
 		<contentId>10043</contentId>
 		<format>mp4</format>
-		<streamUrl>http://video.ted.com/talks/podcast/JulianTreasure_2009G_480.mp4</streamUrl>
+		<streamUrl><![CDATA[http://s7.videofun.me/videos/ongoing/corpsepartytorturedsoulsova01.mp4?gtw=1&st=iVJWQuW0BabV5voSVHSGkQ&e=1421723603&server=videofun]]></streamUrl>
+    	</item>
+    		<item>
+		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
+		<title>Torutured souls Part 1</title>
+		<contentId>10043</contentId>
+		<format>mp4</format>
+		<streamUrl><![CDATA[http://s5.videofun.me/videos/ongoing/corpsepartytorturedsoulsova02.mp4?gtw=1&st=IAsMiXBlaQ32HNIfD8d42g&e=1421723643&server=videofun]]></streamUrl>
+    	</item>
+    		<item>
+		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
+		<title>Torutured souls Part 1</title>
+		<contentId>10043</contentId>
+		<format>mp4</format>
+		<streamUrl><![CDATA[http://s5.videofun.me/videos/ongoing/corpsepartytorturedsoulsova03.mp4?gtw=1&st=wFqIbDJvxYukWggbuZ_j-g&e=1421723656&server=videofun]]></streamUrl>
+    	</item>
+    		<item>
+		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
+		<title>Torutured souls Part 1</title>
+		<contentId>10043</contentId>
+		<format>mp4</format>
+		<streamUrl><![CDATA[http://s8.videofun.me/videos/ongoing/corpsepartytorturedsoulsova04.mp4?gtw=1&st=HjxG2su0SnXwtukgIP2s0Q&e=1421723668&server=videofun]]></streamUrl>
     	</item>
 </videos>
