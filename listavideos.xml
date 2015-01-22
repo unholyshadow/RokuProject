@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <videos>
 	<item>
-		<hdImg>http://dramas.se/images/thumbs/madam-cutie-on-duty.jpg</hdImg>
-		<title>Madam Cutie</title>
+		<hdImg>http://www.animeplus.tv/images/series/big/1531.jpg</hdImg>
+		<title>Evangelion 2 [Part 1]</title>
 		<contentId>10041</contentId>
 		<format>mp4</format>
-		<streamUrl><![CDATA[http://s21.vidcache.net/stream/cf00775d1ef69eb0ef835e28bf42d46738ea7423?client_file_id=908440&redirected_from=s20.vidcache.net]]></streamUrl>
+		<streamUrl><![CDATA[http://s9.videofun.me/videos/Movies/Evangelion-222-You-Can-Not-Advancepart1.flv?gtw=1&st=17UXGeqbq4moQeec0F4h0Q&e=1421904378&server=videofun]]></streamUrl>
 	</item>	
 	<item>
-		<hdImg>http://www.gogoanime.com/images/nanatsu_no_taizai.jpg</hdImg>
-		<title>Nanatsu no taizai</title>
+		<hdImg>http://www.animeplus.tv/images/series/big/1531.jpg</hdImg>
+		<title>Evangelion 2 [Part 2]</title>
 		<contentId>10042</contentId>
 		<format>mp4</format>
-		<streamUrl><![CDATA[http://s9.videofun.me/videos/ongoing/nanatsu_no_taizai_-_14.mp4?gtw=1&st=sKBFR-c9-gSF0X5KSTrF9Q&e=1421741637&server=videofun]]></streamUrl>
+		<streamUrl><![CDATA[http://s10.videofun.me/videos/Movies/Evangelion-222-You-Can-Not-Advancepart2.flv?gtw=1&st=NGXKKvQaHKhoITPykGq-nA&e=1421904378&server=videofun]]></streamUrl>
 	</item>
-     	<item>
-		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
-		<title>Torutured souls Part 1</title>
-		<contentId>10043</contentId>
+	<item>
+		<hdImg>http://www.animeplus.tv/images/series/big/1531.jpg</hdImg>
+		<title>Evangelion 2 [Part 3]</title>
+		<contentId>10041</contentId>
 		<format>mp4</format>
-		<streamUrl><![CDATA[http://s7.videofun.me/videos/ongoing/corpsepartytorturedsoulsova01.mp4?gtw=1&st=iVJWQuW0BabV5voSVHSGkQ&e=1421723603&server=videofun]]></streamUrl>
-    	</item>
-    		<item>
-		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
-		<title>Torutured souls Part 2</title>
-		<contentId>10043</contentId>
-		<format>mp4</format>
-		<streamUrl><![CDATA[http://s5.videofun.me/videos/ongoing/corpsepartytorturedsoulsova02.mp4?gtw=1&st=IAsMiXBlaQ32HNIfD8d42g&e=1421723643&server=videofun]]></streamUrl>
-    	</item>
-    		<item>
-		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
-		<title>Torutured souls Part 3</title>
-		<contentId>10043</contentId>
-		<format>mp4</format>
-		<streamUrl><![CDATA[http://s5.videofun.me/videos/ongoing/corpsepartytorturedsoulsova03.mp4?gtw=1&st=wFqIbDJvxYukWggbuZ_j-g&e=1421723656&server=videofun]]></streamUrl>
-    	</item>
-    		<item>
-		<hdImg>http://www.animeplus.tv/images/series/big/1978.jpg</hdImg>
-		<title>Torutured souls Part 4</title>
-		<contentId>10043</contentId>
-		<format>mp4</format>
-		<streamUrl><![CDATA[http://s8.videofun.me/videos/ongoing/corpsepartytorturedsoulsova04.mp4?gtw=1&st=HjxG2su0SnXwtukgIP2s0Q&e=1421723668&server=videofun]]></streamUrl>
-    	</item>
+		<streamUrl><![CDATA[http://s1.videofun.me/videos/Movies/Evangelion-222-You-Can-Not-Advancepart3.flv?gtw=1&st=aETJOIhDJYg0NvwRRP7flw&e=1421904378&server=videofun]]></streamUrl>
+	</item>	
 </videos>
